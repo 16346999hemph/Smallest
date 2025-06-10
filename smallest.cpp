@@ -1,3 +1,6 @@
+//Name: Anyshya Hemphill
+//Program 1 – Numbers
+// This program finds the smallest value of 4 integers entered by the user.
 #include <iostream>
 using namespace std;
 int main() {
